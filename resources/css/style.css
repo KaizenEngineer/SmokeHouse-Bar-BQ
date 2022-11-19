@@ -17,3 +17,9 @@ h1
   flex-wrap: wrap;
   justify-content: center;
 }
+
+footer
+{
+  font-size: 30px;
+}
+
